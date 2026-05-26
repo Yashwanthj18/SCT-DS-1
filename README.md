@@ -39,4 +39,4 @@ SCT_DS_1/
 - Understanding distributions
 
 ## Author
-Yashwanth
+Yashwanth.J
